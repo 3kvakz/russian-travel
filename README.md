@@ -12,3 +12,5 @@
 * 1024—1279
 * 768—1023
 * 0—767
+
+[Ссылка на проект](https://3kvakz.github.io/russian-travel/)
