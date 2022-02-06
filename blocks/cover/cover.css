@@ -6,6 +6,9 @@
   background-position: center;
   position: relative;
   margin: 0 auto 92px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .cover::before {
